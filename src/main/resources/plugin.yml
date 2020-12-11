@@ -1,0 +1,13 @@
+name: PointSystem
+version: ${project.version}
+main: dev.echo.pointsystem.PointSystem
+api-version: 1.16
+authors: [ Echo ]
+description: Echo
+
+commands:
+  points:
+    description: set the players points!
+    aliases:
+      - p
+      - point
